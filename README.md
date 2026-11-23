@@ -13,7 +13,3 @@ Junior Dev, still learning.
 
 # My stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=huugoo-v&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=huugoo-v&icon=0&color=0)](https://visitcount.itsvg.in)
-
